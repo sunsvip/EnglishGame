@@ -2,15 +2,11 @@
 <root>
   <xmlVersion>1.0</xmlVersion>
   <appVersion>1.0</appVersion>
+  <downloadApp>http://blog.csdn.net/final5788</downloadApp>
   <fileAddress>
     <name>https://raw.githubusercontent.com/sunsvip/EnglishGame/master/English_1.txt</name>
     <name>https://raw.githubusercontent.com/sunsvip/EnglishGame/master/English_2.txt</name>
     <name>https://raw.githubusercontent.com/sunsvip/EnglishGame/master/English_3.txt</name>
-    <name>https://raw.githubusercontent.com/sunsvip/EnglishGame/master/English_4.txt</name>
-    <name>https://raw.githubusercontent.com/sunsvip/EnglishGame/master/English_5.txt</name>
-    <name>https://raw.githubusercontent.com/sunsvip/EnglishGame/master/English_6.txt</name>
-    <name>https://raw.githubusercontent.com/sunsvip/EnglishGame/master/English_7.txt</name>
-    <name>https://raw.githubusercontent.com/sunsvip/EnglishGame/master/English_8.txt</name>
   </fileAddress>
   
 </root>
